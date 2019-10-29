@@ -1,7 +1,7 @@
 # Wavelet-denoising-of-RRATs
 This is the Matlab demo code for our paper "Wavelet Denoising of Radio Observations of Rotating Radio Transients (RRATs): Improved Timing Parameters for Eight RRATs". [[Paper link->]](https://iopscience.iop.org/article/10.3847/1538-4357/aa88c3/meta)
 
-<img src="../results/J1047.jpg">
+<img src="/results/J1047.jpg">
 
 <img src="../results/J1047W.jpg">
 
