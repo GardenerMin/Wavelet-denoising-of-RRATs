@@ -3,9 +3,13 @@ This is the Matlab demo code for our paper "Wavelet Denoising of Radio Observati
 
 <p align="center">
   <img src="/results/J1047.jpg" height="300px">
-  
+</p>
+
+
+<p align="center">
   <img src="/results/J1047W.jpg" height="240px">
 </p>
+
 
 ## Usage
 1. Data download from [[this link]](https://drive.google.com/file/d/1trgLGdYNPTRcK-kyXcFxP81g96QXzict/view?usp=sharing). Note that this is a piece of original time series (after dedispersion) of RRAT J1048-5838 saved in Matlab format (.mat).
