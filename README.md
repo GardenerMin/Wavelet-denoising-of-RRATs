@@ -35,6 +35,6 @@ Please cite the paper in your publications if it helps your research:
 }
 ```
 
-## Otehr useful links
+## Other useful links
 1. Sigproc (pulsar signal processing programs). [[Link]](http://sigproc.sourceforge.net/)
 2. Filterbank Tutorial. [[Link]](https://github.com/UCBerkeleySETI/breakthrough/blob/master/GBT/filterbank_tutorial/Filterbank%20Tutorial%20(public).ipynb)
